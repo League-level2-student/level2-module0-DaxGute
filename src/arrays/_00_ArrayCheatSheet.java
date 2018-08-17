@@ -44,7 +44,7 @@ public class _00_ArrayCheatSheet {
 				large = array2[i];
 			}
 		}
-		System.out.println("large is" + large);
+		System.out.println("large is " + large);
 	
 	}
 }

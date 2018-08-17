@@ -24,7 +24,8 @@ public class _02_FindTheHiddenButton implements ActionListener{
 	//2 create an int variable called hiddenButton
 	int hiddenButton;
 	public static void main(String[] args) {
-		new _02_FindTheHiddenButton().start();
+		_02_FindTheHiddenButton dog = new _02_FindTheHiddenButton();
+		dog.start();
 	}
 	
 	public void start() {
